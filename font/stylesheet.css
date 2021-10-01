@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'StrawberryIcon-pro';
+    src: url('StrawberryIcon-pro.eot');
+    src: url('StrawberryIcon-pro.eot?#iefix') format('embedded-opentype'),
+        url('StrawberryIcon-pro.woff2') format('woff2'),
+        url('StrawberryIcon-pro.woff') format('woff'),
+        url('StrawberryIcon-pro.ttf') format('truetype'),
+        url('StrawberryIcon-pro.svg#StrawberryIcon-pro') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
